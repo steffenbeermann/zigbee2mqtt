@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/Koenkk/zigbee2mqtt/compare/2.0.0...2.0.1) (2025-01-05)
+
+
+### Bug Fixes
+
+* Add semver tags to Docker releases ([#25530](https://github.com/Koenkk/zigbee2mqtt/issues/25530)) ([0d30eb5](https://github.com/Koenkk/zigbee2mqtt/commit/0d30eb553b9cb027f8ae5424b9e740136742f74c))
+* Container: remove modifying capabilities of `/usr/bin/node` ([#25456](https://github.com/Koenkk/zigbee2mqtt/issues/25456)) ([43a5b24](https://github.com/Koenkk/zigbee2mqtt/commit/43a5b24dcc22af3ec4c0bb76b45a2706f898421f))
+
 ## [2.0.0](https://github.com/Koenkk/zigbee2mqtt/compare/1.42.0...2.0.0) (2025-01-03)
 
 
